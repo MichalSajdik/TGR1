@@ -1,0 +1,3 @@
+Centralni, Brno, Plzen, Praha, Ostrava, Export
+auto_02: Plzen > Brno > Praha > Brno > Praha
+auto_03: Centralni > Brno >

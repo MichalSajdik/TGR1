@@ -1,0 +1,6 @@
+Centralni, Brno, Plzen, Praha, Ostrava, Export
+auto_01: Centralni > Brno > Plzen
+auto_02: Centralni > Ostrava > Centralni
+letadlo_01: Centralni > Export
+vlak_a: Praha > Centralni
+auto_03: Brno > Plzen
